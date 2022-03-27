@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\WebApplication2.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,37 +16298,37 @@
   "RootNamespace": "WebApplication2",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EdenP\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\EdenP\\source\\repos\\sampleProjectForPipeline\\WebApplication2\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     }
